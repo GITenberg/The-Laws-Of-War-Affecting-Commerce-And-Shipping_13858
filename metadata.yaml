@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '5249'
     url: http://www.gutenberg.org/2009/agents/5249
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13858#The-Laws-Of-War-Affecting-Commerce-And-Shipping
 gutenberg_bookshelf: British Law
 gutenberg_issued: '2004-10-25'
 gutenberg_type: Text
