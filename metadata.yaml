@@ -1,0 +1,32 @@
+_repo: The-Laws-Of-War-Affecting-Commerce-And-Shipping_13858
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomson, H. Byerley (Henry Byerley)
+    aliases:
+    - Thomson, Henry Byerley
+    - Thomson, Henry William
+    birthdate: 1822
+    deathdate: 1867
+    gutenberg_agent_id: '5249'
+    url: http://www.gutenberg.org/2009/agents/5249
+description: ''
+gutenberg_bookshelf: British Law
+gutenberg_issued: '2004-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13858'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maritime law'
+- !lcsh 'War, Maritime (International law)'
+- !lcc 'JX'
+- !lcsh 'War (International law)'
+title: The Laws Of War, Affecting Commerce And Shipping
+url: http://www.gutenberg.org/ebooks/13858
